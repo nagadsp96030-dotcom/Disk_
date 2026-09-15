@@ -17,7 +17,7 @@ import org.json.JSONObject
 class DiskwalaAccessibilityService : AccessibilityService() {
 
     companion object {
-        const val TARGET_PACKAGE = "com.diskwala.app" // TODO: real package name
+        const val TARGET_PACKAGE = "com.diskwalaapp" // TODO: real package name
         val AD_CLOSE_LABELS = listOf("Close ad", "Close", "Skip", "×", "Skip Ad")
 
         const val POLL_MS = 700L
