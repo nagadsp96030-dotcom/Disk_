@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diskwala Automator</string>
+    <string name="accessibility_service_description">
+        Automates opening your own videos in Diskwala, saving them to gallery,
+        and dismissing ad overlays that appear during the process. Only acts
+        when you have turned the toggle on in the app.
+    </string>
+</resources>
